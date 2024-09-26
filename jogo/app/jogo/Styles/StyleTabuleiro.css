@@ -1,0 +1,15 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  margin: auto;
+  width: fit-content; /* Melhor usar fit-content para adaptação */
+}
+
+.mostralinha {
+  display: flex;
+  flex-direction: row;
+  background-image: url('Imagens/grass.png');
+}
